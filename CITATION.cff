@@ -1,0 +1,11 @@
+﻿cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Coefficients of the Normalized Laplacian Characteristic Polynomial with Applications to Graph Anomaly Detection and Over-Smoothing"
+authors:
+  - family-names: "Yin"
+    given-names: "Daijun"
+  - family-names: "Zhang"
+    given-names: "Hongyu"
+type: software
+license: MIT
+repository-code: "https://github.com/<USER>/<REPO>"
